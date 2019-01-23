@@ -1,4 +1,4 @@
-<b dir='rtl' align='right'>چه طوری یک شبکه عصبی  بسازیم؟</b>
+<b><p dir='rtl' align='right'>چه طوری یک شبکه عصبی  بسازیم؟</p></b>
 
 
 
