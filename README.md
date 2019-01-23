@@ -17,7 +17,7 @@
 <p dir='rtl' align='right'>۲- صبر</p>
 <p dir='rtl' align='right'>۳- کمی ریاضی(در حد جمع و ضرب)</p>
 <p dir='rtl' align='right'>۴- زبان پایتون</p>
-<a href="firststep.html#C4">Jump to Chapter 4</a>
+<a href="firtstep.html">Jump to Chapter 4</a>
 
 <p dir='rtl' align='right'></p>
 <p dir='rtl' align='right'></p>
