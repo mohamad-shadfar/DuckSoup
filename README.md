@@ -1,4 +1,4 @@
-<b><bdo dir="rtl">سلام</bdo></b>
+<p dir='rtl' align='right'><font size=4>چه طوری شبکه عصبی بسازیم؟</font></p>
 
 
 You can use the [editor on GitHub](https://github.com/mohamad-shadfar/DuckSoup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
