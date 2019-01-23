@@ -1,4 +1,4 @@
-<font size=7><p dir='rtl' align='right'>چه طوری شبکه عصبی بسازیم؟</p></font>
+<p dir='rtl' align='right'><b>چه طوری شبکه عصبی بسازیم؟</b></p>
 
 
 You can use the [editor on GitHub](https://github.com/mohamad-shadfar/DuckSoup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
