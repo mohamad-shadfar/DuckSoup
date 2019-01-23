@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##چه طوری یک شبکه عصبی  بسازیم؟
 
 You can use the [editor on GitHub](https://github.com/mohamad-shadfar/DuckSoup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
