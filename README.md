@@ -1,0 +1,2 @@
+# DuckSoup
+Learn it EASY
