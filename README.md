@@ -1,4 +1,6 @@
-##چه طوری یک شبکه عصبی  بسازیم؟
+<p dir='rtl' align='right'>چه طوری یک شبکه عصبی  بسازیم؟</p>
+
+
 
 You can use the [editor on GitHub](https://github.com/mohamad-shadfar/DuckSoup.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
