@@ -14,7 +14,7 @@
 <p dir='rtl' align='right'>آهان اینو بگم که همه میتونن این آموزش یاد بگین چون به زبان خیلی ساده ای توضیح دادم و به نظرم تو آینده یه جا به کارتون میاد</p>
 
 <p dir='rtl' align='right'>مواد لازم :</p>
-<p dir='rtl' align='right'>۱- شتیاق</p>
+<p dir='rtl' align='right'>۱- اشتیاق</p>
 <p dir='rtl' align='right'>۲- صبر</p>
 <p dir='rtl' align='right'>۳- کمی ریاضی(در حد جمع و ضرب)</p>
 <p dir='rtl' align='right'>۴- زبان پایتون</p>
