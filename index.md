@@ -16,7 +16,7 @@
 <p dir='rtl' align='right'>مواد لازم :</p>
 <p dir='rtl' align='right'>۱- اشتیاق</p>
 <p dir='rtl' align='right'>۲- صبر</p>
-<p dir='rtl' align='right'>۳- کمی ریاضی(در حد جمع و ضرب)</p>
+<p dir='rtl' align='right'>۳- کمی ریاضی</p>
 <p dir='rtl' align='right'>۴- زبان پایتون</p>
 <p dir='rtl' align='right'><a href="first_step.html">گام اول</a></p>
 
