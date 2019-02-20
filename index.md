@@ -19,4 +19,6 @@
 <p dir='rtl' align='right'>۳- کمی ریاضی</p>
 <p dir='rtl' align='right'>۴- زبان پایتون</p>
 <p dir='rtl' align='right'><a href="first_step.html">گام اول</a></p>
+<p dir='rtl' align='right'></p>
+<p dir='rtl' align='right'><a href="second_step.html">گام دوم</a></p>
 
