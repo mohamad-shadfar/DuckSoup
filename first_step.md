@@ -217,6 +217,11 @@ theme: jekyll-theme-cayman
 <p dir='rtl' align='right'>۲- برای classify کردن دادهای خطی یه راه اینه که اونا رو بشکنیم به چند دسته داده که رفتار خطی دارن .</p>
 <p dir='rtl' align='right'>اینجا گام اول تموم شد و میریم سراغ گام دوم . بیب بیب هورا !!!!!</p>
 <p dir='rtl' align='right'></p>
+<p dir='rtl' align='right'><a href="second_step.html">گام دوم</a></p>
+<p dir='rtl' align='right'></p>
+<p dir='rtl' align='right'><a href="index.html">بازگشت به صفحه اصلی</a></p>
+
+
 
 
 
