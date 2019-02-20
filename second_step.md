@@ -7,5 +7,5 @@ theme: jekyll-theme-cayman
 ---
 
 <p dir='rtl' align='right'><b></b></p>
-<p dir='rtl' align='right'></p>
-<img src="" alt="four_imgs">
+<p dir='rtl' align='right'>در دست احداث :)</p>
+<!--<img src="" alt="four_imgs"> -->
